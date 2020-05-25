@@ -1,0 +1,86 @@
+{
+  "Id": 1,
+  "GridSize": 5,
+  "GridData": [
+    {
+      "PosX": 0,
+      "PosY": 4,
+      "ColorData": {
+        "ColorId": 1,
+        "ColorHexString": "#FF0000"
+      }
+    },
+    {
+      "PosX": 3,
+      "PosY": 0,
+      "ColorData": {
+        "ColorId": 1,
+        "ColorHexString": "#FF0000"
+      }
+    },
+    {
+      "PosX": 1,
+      "PosY": 4,
+      "ColorData": {
+        "ColorId": 2,
+        "ColorHexString": "#FFFF00"
+      }
+    },
+    {
+      "PosX": 4,
+      "PosY": 4,
+      "ColorData": {
+        "ColorId": 2,
+        "ColorHexString": "#FFFF00"
+      }
+    },
+    {
+      "PosX": 3,
+      "PosY": 3,
+      "ColorData": {
+        "ColorId": 3,
+        "ColorHexString": "#00CCFF"
+      }
+    },
+    {
+      "PosX": 1,
+      "PosY": 2,
+      "ColorData": {
+        "ColorId": 3,
+        "ColorHexString": "#00CCFF"
+      }
+    },
+    {
+      "PosX": 1,
+      "PosY": 1,
+      "ColorData": {
+        "ColorId": 4,
+        "ColorHexString": "#00FF00"
+      }
+    },
+    {
+      "PosX": 4,
+      "PosY": 0,
+      "ColorData": {
+        "ColorId": 4,
+        "ColorHexString": "#00FF00"
+      }
+    },
+    {
+      "PosX": 2,
+      "PosY": 2,
+      "ColorData": {
+        "ColorId": 5,
+        "ColorHexString": "#8510d8"
+      }
+    },
+    {
+      "PosX": 4,
+      "PosY": 2,
+      "ColorData": {
+        "ColorId": 5,
+        "ColorHexString": "#8510d8"
+      }
+    }
+  ]
+}
